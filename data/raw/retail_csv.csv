@@ -99,3 +99,5 @@ customer_id,purchase_amount,purchase_date,product_id
 121,35.75,2026-05-10,PROD_C
 122,115.25,2026-05-11,PROD_E
 123,12.00,2026-05-12,PROD_B
+124,12.90,2026-05-13,PROD_U
+125,18.90,2026-05-13,PROD_UUU
